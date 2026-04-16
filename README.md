@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Bhuvesh Rohankar!
-I'm a first-year IT student at GCOE Amravati, currently grinding DSA in Java.
+I'm a first-year IT student at GCOE Amravati😇!!!
 ## 🧰 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
