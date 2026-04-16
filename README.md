@@ -37,8 +37,3 @@ I'm a first-year IT student at GCOE Amravati, currently grinding DSA in Java.
 ---
 
 
-
-
-#### 🛠 Tech Stack
-- **Language:** Java
-- **Tools:** Git, GitHub, VS Code
