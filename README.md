@@ -66,8 +66,6 @@
 
 ---
 ## 🏅 Certifications
-
-
 ---
 ## 📊 GitHub Stats
 
