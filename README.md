@@ -65,7 +65,10 @@
 </p>
 
 ---
+## 🏅 Certifications
 
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
