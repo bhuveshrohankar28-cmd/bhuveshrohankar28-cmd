@@ -58,8 +58,15 @@
   <img src="https://img.shields.io/badge/Google_Cloud-Data_Mesh_Dataplex-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-Cloud_Network-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-Website_on_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-Implement Load Balancing-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
 </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4f27dc97-0670-434e-ba8d-71128fd2eb75" width="66" height="68" />
+  <img src="https://images.credly.com/size/680x680/images/346dd316-2bda-4465-a6d8-537b3ffa2920/blob" width="66" height="68"/>
+  <img src="https://github.com/user-attachments/assets/50d00df6-38a6-4142-ba46-ef912b713f3b" width="66" height="68"/>
+  <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/c2b3bcdd-96be-4251-91a2-cac213004184" />
 
+</p>
 <p align="center">
   🏅 View all badges on <a href="https://www.credly.com/users/bhuvesh-rohankar/badges">Credly</a>
 </p>
