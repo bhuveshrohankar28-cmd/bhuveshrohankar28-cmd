@@ -12,7 +12,7 @@
 
 - 🔭 Currently contributing to open source projects
 - 🌱 Learning JavaScript deeply & exploring React
-- ☁️ Google Cloud certified — 7 skill badges earned
+- ☁️ Google Cloud certified — 10+ skill badges earned
 - ⚡ 121+ LeetCode problems solved in Java | 89-day streak
 - 🎯 Attended AWS Community Builder event & Codorithm competition
 
@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
@@ -59,8 +58,12 @@
   <img src="https://img.shields.io/badge/Google_Cloud-Cloud_Network-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-Website_on_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-Implement Load Balancing-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-Implement Configure Service Accounts-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-Implement Cloud Speech API-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
+  
 </p>
 <p align="center">
+  <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/6b924da7-7246-4ce0-9385-5e1da938bc76" />
   <img src="https://github.com/user-attachments/assets/4f27dc97-0670-434e-ba8d-71128fd2eb75" width="66" height="68" />
   <img src="https://images.credly.com/size/680x680/images/346dd316-2bda-4465-a6d8-537b3ffa2920/blob" width="66" height="68"/>
   <img src="https://github.com/user-attachments/assets/50d00df6-38a6-4142-ba46-ef912b713f3b" width="66" height="68"/>
