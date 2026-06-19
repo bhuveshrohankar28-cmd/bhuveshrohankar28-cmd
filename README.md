@@ -74,9 +74,7 @@
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuveshrohankar28-cmd&theme=tokyonight"/>
-</p>
+
 
 ---
 
