@@ -12,7 +12,7 @@
 
 - 🔭 Currently contributing to open source projects
 - 🌱 Learning JavaScript deeply & exploring React
-- ☁️ Google Cloud certified — 10+ skill badges earned
+- ☁️ Google Cloud certified — 15+ skill badges earned
 - ⚡ 121+ LeetCode problems solved in Java | 89-day streak
 - 🎯 Attended AWS Community Builder event & Codorithm competition
 
@@ -60,14 +60,30 @@
   <img src="https://img.shields.io/badge/Google_Cloud-Implement Load Balancing-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-Implement Configure Service Accounts-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-Implement Cloud Speech API-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-Build LookML Objects-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-Manage Data Models-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-Sensitive Data Protection-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-Prepare Data for ML APIs-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-Monitor and Log with GC-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-Build Global and Regional Load Balancing Solutions-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
+  
+  
   
 </p>
 <p align="center">
   <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/6b924da7-7246-4ce0-9385-5e1da938bc76" />
   <img src="https://github.com/user-attachments/assets/4f27dc97-0670-434e-ba8d-71128fd2eb75" width="66" height="68" />
-  <img src="https://images.credly.com/size/680x680/images/346dd316-2bda-4465-a6d8-537b3ffa2920/blob" width="66" height="68"/>
   <img src="https://github.com/user-attachments/assets/50d00df6-38a6-4142-ba46-ef912b713f3b" width="66" height="68"/>
   <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/c2b3bcdd-96be-4251-91a2-cac213004184" />
+  <img src="https://images.credly.com/size/680x680/images/346dd316-2bda-4465-a6d8-537b3ffa2920/blob" width="66" height="68"/>
+  <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/d9b9beec-f485-4f0b-89c8-a024671f41f3" />
+  <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/c676cca7-d78c-4536-be4f-cc7596160cf8" />
+  <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/e5f10e12-263c-4884-bc52-c8e5452f58c7" />
+  <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/336b060c-2031-4e7d-9cf8-79061afff9ee" />
+
+
+
+
 
 </p>
 <p align="center">
