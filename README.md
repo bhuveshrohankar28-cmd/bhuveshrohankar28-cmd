@@ -127,8 +127,13 @@
 
 ---
 <div align="center">
-  "The more you know, the less time it takes to know more😇"
+
+**🔮 Byte-Sized Wisdom:-**
+
+*"Git doesn't think in differences; It thinks in moments."*
+
 </div>
+
 
   <img src="https://komarev.com/ghpvc/?username=bhuveshrohankar28-cmd&color=blue&style=flat-square" alt="Profile Views"/>
 </p>
