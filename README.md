@@ -13,19 +13,64 @@
 - 🔭 Currently contributing to open source projects
 - 🌱 Learning JavaScript deeply & exploring React
 - ☁️ Google Cloud certified — 15+ skill badges earned
-- ⚡ 121+ LeetCode problems solved in Java | 89-day streak
 - 🎯 Attended AWS Community Builder event & Codorithm competition
+
+---
+
+## 🧠 AlgoRhythm — My Latest Project
+
+<p align="center">
+  <b>A Manifest V3 browser extension that turns LeetCode/GFG practice into a spaced-repetition system</b><br/>
+  Auto review scheduling · Company-wise interview tags · Free AI hints · Built-in Striver A2Z / SDE Sheet / NeetCode 150
+</p>
+
+<p align="center">
+  <a href="https://microsoftedge.microsoft.com/addons/detail/chggifmaplgmobchnnpcfmcifpehdcfn">
+    <img src="https://img.shields.io/badge/Get_it_on-Microsoft_Edge_Add--ons-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/posts/bhuvesh-rohankar-427b08373_dsa-leetcode-geeksforgeeks-activity-7483150893761351680-UeDu">
+    <img src="https://img.shields.io/badge/Read_the-Launch_Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+**Key features:**
+- 🔁 Spaced repetition — auto-schedules problem reviews based on your confidence rating
+- 🏢 Company-wise interview tags with frequency tiers
+- 📋 Built-in practice sheets (Striver A2Z, Striver SDE Sheet, NeetCode 150) with direct 🔴 YouTube / 🟡 LeetCode / 🟢 GFG links on every problem
+- 🤖 Free AI assistant (hints, complexity analysis, approach suggestions) via Groq
+- 🔒 Privacy-first — no account, no data collection, everything stored locally
+- 🌐 Live on Microsoft Edge now, Chrome & Brave support coming soon
 
 ---
 
 ## 🤝 Open Source Contributions
 
+**📊 8 Pull Requests · 11 Issues Raised — 19 total contributions**
+
+### 🪟 [microsoft/MicrosoftEdge-Extensions](https://github.com/microsoft/MicrosoftEdge-Extensions)
+
+| # | Type | Description |
+|---|---|---|
+| [#642](https://github.com/microsoft/MicrosoftEdge-Extensions/issues/642) | 🟢 Open Issue | Feature request — clearer validation messages for Permission Justification fields on the Edge Add-ons site instead of a generic error banner |
+
 ### 🤖 [TheRoboTechForum/RTF-Website-New](https://github.com/TheRoboTechForum/RTF-Website-New)
 
-| PR | Type | Description |
+| # | Type | Description |
 |---|---|---|
-| [#14](https://github.com/TheRoboTechForum/RTF-Website-New/pull/14) | ✅ Merged | Built robotic-themed scroll-to-top React component with useState/useEffect & Tailwind animation |
-| [#17](https://github.com/TheRoboTechForum/RTF-Website-New/pull/17) | ✅ Merged | Diagnosed & fixed React useEffect state initialization bug causing duplicate terminal prompts |
+| [#14](https://github.com/TheRoboTechForum/RTF-Website-New/pull/14) | ✅ Merged | Built a robotic-themed scroll-to-top React component with `useState`/`useEffect` & Tailwind animation |
+| [#17](https://github.com/TheRoboTechForum/RTF-Website-New/pull/17) | ✅ Merged | Diagnosed & fixed a React `useEffect` state initialization bug causing duplicate terminal prompts |
+| [#45](https://github.com/TheRoboTechForum/RTF-Website-New/pull/45) | 🟡 Open PR | Design improvement — optimized sidebar timeline aesthetics and center-viewport scroll tracking |
+| [#38](https://github.com/TheRoboTechForum/RTF-Website-New/pull/38) | 🟡 Open PR | Added GitHub social link to Footer and a "Want to Contribute?" section on the Contact page |
+| [#36](https://github.com/TheRoboTechForum/RTF-Website-New/pull/36) | 🟡 Open PR | Fixed footer Map icon to correctly link to Google Maps |
+| [#34](https://github.com/TheRoboTechForum/RTF-Website-New/pull/34) | 🟡 Open PR | Updated member login portal UI styling |
+| [#31](https://github.com/TheRoboTechForum/RTF-Website-New/pull/31) | 🟡 Open PR | Fixed page not scrolling to top when switching routes |
+
+### 🏆 [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback)
+
+| # | Type | Description |
+|---|---|---|
+| [#36302](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/36302) | ✅ Closed Issue | Reported incorrect test case output for LeetCode problem #80 |
 
 ---
 
@@ -66,9 +111,6 @@
   <img src="https://img.shields.io/badge/Google_Cloud-Prepare Data for ML APIs-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-Monitor and Log with GC-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-Build Global and Regional Load Balancing Solutions-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
-  
-  
-  
 </p>
 <p align="center">
   <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/6b924da7-7246-4ce0-9385-5e1da938bc76" />
@@ -80,11 +122,6 @@
   <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/c676cca7-d78c-4536-be4f-cc7596160cf8" />
   <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/e5f10e12-263c-4884-bc52-c8e5452f58c7" />
   <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/336b060c-2031-4e7d-9cf8-79061afff9ee" />
-
-
-
-
-
 </p>
 <p align="center">
   🏅 View all badges on <a href="https://www.credly.com/users/bhuvesh-rohankar/badges">Credly</a>
@@ -117,15 +154,6 @@
 </p>
 
 ---
-
-## 📊 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/BhuvX_28?theme=dark&font=Karma&ext=contest&width=500"/>
-</p>
-
-
----
 <div align="center">
 
 **🔮 Byte-Sized Wisdom:-**
@@ -137,5 +165,3 @@
 
   <img src="https://komarev.com/ghpvc/?username=bhuveshrohankar28-cmd&color=blue&style=flat-square" alt="Profile Views"/>
 </p>
-
-
