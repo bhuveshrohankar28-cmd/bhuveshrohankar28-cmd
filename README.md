@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Bhuvesh Rohankar!</h1>
 
 <p align="center">
-  🎓 First-year IT student at GCOE Amravati &nbsp;|&nbsp; 
+  🎓 Second-year IT student at GCOE Amravati &nbsp;|&nbsp; 
   📍 Nagpur, India &nbsp;|&nbsp;
   💻 Backend & Java enthusiast
 </p>
