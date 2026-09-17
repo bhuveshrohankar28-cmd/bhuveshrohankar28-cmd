@@ -12,7 +12,7 @@
 
 - 🔭 Currently contributing to open source projects
 - 🌱 Learning JavaScript deeply & exploring React
-- ☁️ Google Cloud certified — 15+ skill badges earned
+- ☁️ Google Cloud certified — 50+ skill badges earned
 - 🎯 Attended AWS Community Builder event & Codorithm competition
 
 ---
